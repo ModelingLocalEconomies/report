@@ -4,28 +4,28 @@ date: 2023-12-13
 author:
   - name: Michael Atkins
     email: michaelga@vt.edu
-    url: www.michaelatkins.me/
+    url: https://www.michaelatkins.me
     affiliation:
       - name: Virginia Tech
         city: Blacksburg
         state: VA
-        url: www.vt.edu
+        url: https://www.vt.edu
   - name: Raseen Nirjhar
     email: raseen3@vt.edu
-    url: raseen3.github.io/
+    url: https://raseen3.github.io
     affiliation:
       - name: Virginia Tech
         city: Blacksburg
         state: VA
-        url: www.vt.edu
+        url: https://www.vt.edu
   - name: James Weichert
     email: jamesweichert@vt.edu
-    url: james-weichert.github.io/
+    url: https://james-weichert.github.io
     affiliation:
       - name: Virginia Tech
         city: Blacksburg
         state: VA
-        url: www.vt.edu
+        url: https://www.vt.edu
 abstract: >
   This project aims to explore the potential of leveraging concert-related data with Google Trends data to predict Gross Domestic Product (GDP) growth in local state economies. Preliminary data analysis shows some positive correlation between concert revenue data and GDP growth as well as Google Trend popularity and GDP growth. By applying machine learning techniques to the problem,  GDP growth could be predicted within an acceptable margin, but various confounding factors limit the confidence of these results.
 bibliography: reference.bib
